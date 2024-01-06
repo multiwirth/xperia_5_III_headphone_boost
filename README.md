@@ -1,4 +1,4 @@
-# Sony Xperia 5 III headphone gain boost
+# Sony Xperia 5 III headphone gain boost for magisk
 
 
 **Only for Sony Xperia 5 III running LineageOS 20.0**
