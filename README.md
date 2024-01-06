@@ -9,6 +9,6 @@ This value has been well tested to not cause any distortions at max. volume.
 
 
 ## Requirements
-- Sony Xperia 5 III (pdx214) running LineageOS 20.0
+- Sony Xperia 5 III (pdx214) running LineageOS 20.0 rooted via Magisk.
 
 
