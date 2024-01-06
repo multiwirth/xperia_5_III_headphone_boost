@@ -1,2 +1,11 @@
-# xperia_5_III_headphone_boost
-Changes the value for the headphone output digital volume, in order to get more out of the device
+# Sony Xperia 5 III headphone gain boost
+
+
+**Only for Sony Xperia 5 III running LineageOS 20.0**
+
+
+
+## Requirements
+- Sony Xperia 5 III (pdx214) running LineageOS 20.0
+
+
