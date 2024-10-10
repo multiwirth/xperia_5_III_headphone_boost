@@ -2566,8 +2566,8 @@
         <ctl name="HPHR_COMP Switch" value="1" />
         <ctl name="HPHL_RDAC Switch" value="1" />
         <ctl name="HPHR_RDAC Switch" value="1" />
-        <ctl name="RX_RX0 Digital Volume" value="75" />
-        <ctl name="RX_RX1 Digital Volume" value="75" />
+        <ctl name="RX_RX0 Digital Volume" value="84" />
+        <ctl name="RX_RX1 Digital Volume" value="84" />
     </path>
     <path name="headphones-dsd">
         <ctl name="RX_CDC_DMA_5 RX Format" value="DSD_DOP" />
